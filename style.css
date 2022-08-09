@@ -1,0 +1,29 @@
+.form-control {
+    width: 340px;
+}
+.card-body {
+    align-items: center;
+}
+body {
+    font-size: 19px;
+    font-family: 'Montserrat', sans-serif;
+    background-image: url(https://kastamonupancar.com.tr/wp-content/uploads/2018/11/webplunder-background-image-technology-online-website-solutions.jpg);
+}
+
+
+.card {
+    background-image: url(https://kastamonupancar.com.tr/wp-content/uploads/2018/11/webplunder-background-image-technology-online-website-solutions.jpg);
+}
+
+.btn {
+    width: 140px;
+    height: 42px;
+}
+
+.clearbutton {
+    width:200px;
+    position:relative;
+    bottom: 440px;
+    left: 430px;
+}
+
